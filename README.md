@@ -29,7 +29,7 @@
 ---
 
 ### 🌐 **Let’s Connect**
-- 💼 [LinkedIn](www.linkedin.com/in/aakashkhadikar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aakashkhadikar)
 - 📺 [Twitter](https://x.com/Aakashkhadikar1)
 - 🌐 [[Website/Blog](https://aakashkhadikar16.medium.com/)
 
