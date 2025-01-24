@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aakash.
 
-🚀 **Founder & CEO at [The Artificial Singularity](linkedin.com/company/the-artificial-singularity)**  
+🚀 **Founder & CEO at [The Artificial Singularity](https://linkedin.com/company/the-artificial-singularity)**  
 🎓 **MTech in AIML | Former AI/ML Researcher**  
 ✍️ **Blogger on Generative AI, LLMs, & VLMs**  
 💡 **Passionate about building innovative AI systems shaping the future.**
@@ -11,11 +11,6 @@
 - 🌌 Exploring the intersections of AI and creativity.
 - 🛠 Developing cutting-edge models in Generative AI and Computer Vision.
 - 📖 Sharing knowledge through blogs, videos, and open-source contributions.
-
----
-
-### 📈 **GitHub Stats**
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashK&show_icons=true&theme=radical)
 
 ---
 
@@ -31,7 +26,7 @@
 ### 🌐 **Let’s Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/aakashkhadikar)
 - 📺 [Twitter](https://x.com/Aakashkhadikar1)
-- 🌐 [[Website/Blog](https://aakashkhadikar16.medium.com/)
+- 🌐 [Website/Blog](https://aakashkhadikar16.medium.com/)
 
 ---
 
