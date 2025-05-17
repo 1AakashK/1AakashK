@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Aakash.
 
-🚀 **Founder & CEO at [The Artificial Singularity](https://linkedin.com/company/the-artificial-singularity)**  
 🎓 **MTech in AIML | Former AI/ML Researcher**  
 ✍️ **Blogger on Generative AI, LLMs, & VLMs**  
 💡 **Passionate about building innovative AI systems shaping the future.**
