@@ -8,7 +8,7 @@
 
 🎓 **M.Tech in AI & ML | Independent AI Researcher**  
 ✍️ **Writer on Generative AI, LLMs & Vision-Language Models**  
-💡 **Exploring AGI through autonomous agents, continual learning, and multimodal cognition**
+💡 **Exploring autonomous agents, continual learning, and multimodal cognition**
 
 ---
 
