@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **M.Tech in AI & ML | Independent AI Researcher**  
+🎓 **PhD in AI | Independent AI Researcher**  
 ✍️ **Writer on Generative AI, LLMs & Vision-Language Models**  
 💡 **Exploring autonomous agents, continual learning, and multimodal cognition**
 
