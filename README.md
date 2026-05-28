@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aakash Khadikar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=PhD+in+AI+%26;Independent+AI+Researcher;Building+the+Future+with+Advanced+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=PhD+in+AI%26;Independent+AI+Researcher;+Building+the+Future+with+Advanced+AI+Systems" alt="Typing SVG" />
 </div>
 
 ---
