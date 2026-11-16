@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aakash Khadikar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI+Research+Engineer;PhD+Scholar+in+Artificial+Intelligence;Researching+Agentic+AI+Systems;Continual+Learning+%26+Long-Horizon+Adaptation;Founder+%40+The+Artificial+Singularity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI+Research+Engineer;MTech+in+Artificial+Intelligence;Researching+Agentic+AI+Systems;Continual+Learning+%26+Long-Horizon+Adaptation;Founder+%40+The+Artificial+Singularity" alt="Typing SVG" />
 </div>
 
 ---
 
-🎓 **PhD in AI | Independent AI Researcher**  
-✍️ **Writer on Generative AI, LLMs & Vision-Language Models**  
+🎓 **Mtech in AI | Independent AI Researcher**  
+✍️ **Writer on LLMs, Agentic AI & AGI**  
 💡 **Exploring autonomous agents, continual learning, and multimodal cognition**
 
 ---
